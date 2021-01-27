@@ -78,7 +78,7 @@
 
 **Tool** : *Eclipse*
 
-**라이브러리** :  *JQuery* , *AJAX*  ,  *JSTL*, *Apache Tomcat* , *Lombok* , *cos*
+**라이브러리** :  *JQuery* , *AJAX*  ,  *JSTL*, *Apache-tomcat-9.0.38* , *Lombok* , *cos*
 
 **데이터베이스** : *Oracle*, *mybatis*
 
