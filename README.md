@@ -163,6 +163,26 @@
 
 <br>
 
+![pw](https://user-images.githubusercontent.com/67575406/106000351-12481c80-60f2-11eb-9a88-16519587ce40.JPG)
+
+
+
+
+
+
+
+![메일 보내기](https://user-images.githubusercontent.com/67575406/106000111-cdbc8100-60f1-11eb-953e-e1c4ca810f91.JPG)
+
+
+
+
+
+![메일](https://user-images.githubusercontent.com/67575406/106000115-ceedae00-60f1-11eb-8f07-4290bacbcd6e.JPG)
+
+
+
+<br>
+
 ### 현재상영작
 
 <br>
