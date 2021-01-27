@@ -74,7 +74,7 @@
 
 ## :bulb: ​개발 환경
 
-**개발 언어** :  *JAVA* , JSP, *HTML*, *CSS*, *JavaScript* 
+**개발 언어** :  *JAVA* , *JSP* , *HTML*, *CSS*, *JavaScript* 
 
 **Tool** : *Eclipse*
 
